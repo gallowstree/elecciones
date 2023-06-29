@@ -1,0 +1,41 @@
+﻿TIPO_DE_ELECCIÓN:,CORPORACIÓN MUNICIPAL
+28 junio 2023 21:35 (UTC -6)
+ACTAS_ESPERADAS,ACTAS_CAPTURADAS,PORCENTAJE_ACTAS_CAPTURADAS,ACTAS_CONTABILIZADAS,PORCENTAJE_ACTAS_CONTABILIZADAS,ACTAS_NO_CONTABILIZADAS,LISTA_NOMINAL_ACTAS_CONTABILIZADAS,VOTOS_EMITIDOS_CONTABILIZADAS,PORCENTAJE_PARTICIPACIÓN_CIUDADANA
+35,3,8.5714,3,8.5714,0,1160,795,68.5344
+
+MESA,DEPARTAMENTO,ID_DEPARTAMENTO,MUNICIPIO,ID_MUNICIPIO,CENTRO_DE_VOTACIÓN,PADRÓN,CABAL,VAMOS,VIVA,MLP,CAMBIO,UNE,ELEFANTE,TODOS,PPN,AZUL,VÁLIDOS,NULOS,BLANCO,EMITIDOS,INVÁLIDOS,TOTAL,IMPUGNACIONES,PAPELETAS-RECIBIDAS,PAPELETAS-NO-USADAS,VALIDOS_CALCULADO,EMITIDOS_CALCULADO,TOTAL_CALCULADO,OBSERVACIONES,CONTABILIZADA,CÓDIGO_INTEGRIDAD,FECHA_HORA_PUBLICACIÓN,DIGITALIZACIÓN
+12097,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12098,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12099,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12100,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12101,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12102,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12103,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12104,"Suchitepéquez",10,"San Pablo Jocopilas",9,1637,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12105,"Suchitepéquez",10,"San Pablo Jocopilas",9,1638,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12106,"Suchitepéquez",10,"San Pablo Jocopilas",9,1638,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12107,"Suchitepéquez",10,"San Pablo Jocopilas",9,1638,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12108,"Suchitepéquez",10,"San Pablo Jocopilas",9,1638,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12109,"Suchitepéquez",10,"San Pablo Jocopilas",9,1638,400,57,123,18,--,5,23,1,4,6,3,240,3,0,243,0,243,--,400,157,240,243,243,Algún campo sin dato,1,d1a39e2eb2bade6f41ebed20a18ba008590dc6ad6305ba98ed03f198902b908f,26/06/2023 01:31:43,MOVIL
+12110,"Suchitepéquez",10,"San Pablo Jocopilas",9,1638,213,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12111,"Suchitepéquez",10,"San Pablo Jocopilas",9,1638,212,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12112,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,6,91,36,1,63,31,10,3,4,3,248,14,7,269,0,269,--,380,111,248,269,269,Algún campo sin dato,1,a173ee301096cad44d9e44fa01794bf497366c0a9a68f41bbc731779fe409412,26/06/2023 00:38:28,ESCANER
+12113,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12114,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12115,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12116,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12117,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12118,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12119,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,9,101,35,1,72,21,14,9,5,4,271,5,7,283,0,283,--,381,98,271,283,283,Algún campo sin dato,1,5cd5eb0d985e37be09fd55b23693979dd963f66ea062070f9d258d90981bb43a,25/06/2023 23:20:22,ESCANER
+12120,"Suchitepéquez",10,"San Pablo Jocopilas",9,1639,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12121,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12122,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12123,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12124,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12125,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12126,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12127,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12128,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12129,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,289,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12130,"Suchitepéquez",10,"San Pablo Jocopilas",9,1640,289,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+12131,"Suchitepéquez",10,"San Pablo Jocopilas",9,1641,563,,,,,,,,,,,,,,,,,,,,,,,,0,,,

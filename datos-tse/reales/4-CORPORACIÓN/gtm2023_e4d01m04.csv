@@ -1,0 +1,30 @@
+﻿TIPO_DE_ELECCIÓN:,CORPORACIÓN MUNICIPAL
+28 junio 2023 21:35 (UTC -6)
+ACTAS_ESPERADAS,ACTAS_CAPTURADAS,PORCENTAJE_ACTAS_CAPTURADAS,ACTAS_CONTABILIZADAS,PORCENTAJE_ACTAS_CONTABILIZADAS,ACTAS_NO_CONTABILIZADAS,LISTA_NOMINAL_ACTAS_CONTABILIZADAS,VOTOS_EMITIDOS_CONTABILIZADAS,PORCENTAJE_PARTICIPACIÓN_CIUDADANA
+24,0,0.0000,0,0.0000,0,0,0,--.----
+
+MESA,DEPARTAMENTO,ID_DEPARTAMENTO,MUNICIPIO,ID_MUNICIPIO,CENTRO_DE_VOTACIÓN,PADRÓN,VAMOS,VALOR,CABAL,BIEN,PPN,SEMILLA,UNE,VOS,PHG,PODEMOS,VÁLIDOS,NULOS,BLANCO,EMITIDOS,INVÁLIDOS,TOTAL,IMPUGNACIONES,PAPELETAS-RECIBIDAS,PAPELETAS-NO-USADAS,VALIDOS_CALCULADO,EMITIDOS_CALCULADO,TOTAL_CALCULADO,OBSERVACIONES,CONTABILIZADA,CÓDIGO_INTEGRIDAD,FECHA_HORA_PUBLICACIÓN,DIGITALIZACIÓN
+2297,"Guatemala",1,"San José Del Golfo",4,190,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2298,"Guatemala",1,"San José Del Golfo",4,190,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2299,"Guatemala",1,"San José Del Golfo",4,190,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2300,"Guatemala",1,"San José Del Golfo",4,190,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2301,"Guatemala",1,"San José Del Golfo",4,190,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2302,"Guatemala",1,"San José Del Golfo",4,190,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2303,"Guatemala",1,"San José Del Golfo",4,191,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2304,"Guatemala",1,"San José Del Golfo",4,191,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2305,"Guatemala",1,"San José Del Golfo",4,191,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2306,"Guatemala",1,"San José Del Golfo",4,191,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2307,"Guatemala",1,"San José Del Golfo",4,192,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2308,"Guatemala",1,"San José Del Golfo",4,192,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2309,"Guatemala",1,"San José Del Golfo",4,192,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2310,"Guatemala",1,"San José Del Golfo",4,192,400,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2311,"Guatemala",1,"San José Del Golfo",4,192,229,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2312,"Guatemala",1,"San José Del Golfo",4,192,229,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2313,"Guatemala",1,"San José Del Golfo",4,193,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2314,"Guatemala",1,"San José Del Golfo",4,193,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2315,"Guatemala",1,"San José Del Golfo",4,193,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2316,"Guatemala",1,"San José Del Golfo",4,193,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2317,"Guatemala",1,"San José Del Golfo",4,193,380,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2318,"Guatemala",1,"San José Del Golfo",4,193,205,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2319,"Guatemala",1,"San José Del Golfo",4,193,205,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+2320,"Guatemala",1,"San José Del Golfo",4,194,365,,,,,,,,,,,,,,,,,,,,,,,,0,,,

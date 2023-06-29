@@ -1,0 +1,57 @@
+﻿TIPO_DE_ELECCIÓN:,CORPORACIÓN MUNICIPAL
+28 junio 2023 21:35 (UTC -6)
+ACTAS_ESPERADAS,ACTAS_CAPTURADAS,PORCENTAJE_ACTAS_CAPTURADAS,ACTAS_CONTABILIZADAS,PORCENTAJE_ACTAS_CONTABILIZADAS,ACTAS_NO_CONTABILIZADAS,LISTA_NOMINAL_ACTAS_CONTABILIZADAS,VOTOS_EMITIDOS_CONTABILIZADAS,PORCENTAJE_PARTICIPACIÓN_CIUDADANA
+51,12,23.5294,12,23.5294,0,4245,2700,63.6042
+
+MESA,DEPARTAMENTO,ID_DEPARTAMENTO,MUNICIPIO,ID_MUNICIPIO,CENTRO_DE_VOTACIÓN,PADRÓN,VALOR,MLP,VOS,VAMOS,SEMILLA,UNE,AZUL,PPN,CAMBIO,PODEMOS,ELEFANTE,VÁLIDOS,NULOS,BLANCO,EMITIDOS,INVÁLIDOS,TOTAL,IMPUGNACIONES,PAPELETAS-RECIBIDAS,PAPELETAS-NO-USADAS,VALIDOS_CALCULADO,EMITIDOS_CALCULADO,TOTAL_CALCULADO,OBSERVACIONES,CONTABILIZADA,CÓDIGO_INTEGRIDAD,FECHA_HORA_PUBLICACIÓN,DIGITALIZACIÓN
+6608,"Chimaltenango",3,"Yepocapa",12,705,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6609,"Chimaltenango",3,"Yepocapa",12,705,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6610,"Chimaltenango",3,"Yepocapa",12,705,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6611,"Chimaltenango",3,"Yepocapa",12,705,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6612,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6613,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6614,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6615,"Chimaltenango",3,"Yepocapa",12,706,400,19,2,4,132,6,112,2,6,10,0,5,298,20,8,326,0,326,--,400,74,298,326,326,Algún campo sin dato,1,b21b4f8de6ede9db6f2a62bf497e166176eb96b0f6412d4374d3f93b0460d040,26/06/2023 00:41:41,ESCANER
+6616,"Chimaltenango",3,"Yepocapa",12,706,400,19,3,1,145,6,131,3,0,8,0,1,317,15,5,337,0,337,--,400,63,317,337,337,Algún campo sin dato,1,e3a0050e2e4e097e3b6588b25e15736a0e68ba558429be2dafdb681feaf8db64,26/06/2023 00:03:20,ESCANER
+6617,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6618,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6619,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6620,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6621,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6622,"Chimaltenango",3,"Yepocapa",12,706,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6623,"Chimaltenango",3,"Yepocapa",12,707,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6624,"Chimaltenango",3,"Yepocapa",12,707,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6625,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6626,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6627,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6628,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6629,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6630,"Chimaltenango",3,"Yepocapa",12,708,400,12,2,2,145,9,99,2,4,8,0,2,285,11,2,298,0,298,--,400,102,285,298,298,Algún campo sin dato,1,cd21502e0ea0a1cbe5e4cb820d43cafe1d71504f784246b574d6eaaf83473428,26/06/2023 00:54:17,ESCANER
+6631,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6632,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6633,"Chimaltenango",3,"Yepocapa",12,708,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6634,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6635,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6636,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6637,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6638,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6639,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6640,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6641,"Chimaltenango",3,"Yepocapa",12,709,400,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6642,"Chimaltenango",3,"Yepocapa",12,709,234,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6643,"Chimaltenango",3,"Yepocapa",12,709,234,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6644,"Chimaltenango",3,"Yepocapa",12,710,380,52,3,3,123,2,71,1,3,12,0,2,272,16,10,298,0,298,--,380,82,272,298,298,Algún campo sin dato,1,e615e6db577f08c5e10f2f4129dde41e1cf9d98eacdbc1b61b3ba002d0f6e78b,26/06/2023 00:42:47,ESCANER
+6645,"Chimaltenango",3,"Yepocapa",12,710,380,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6646,"Chimaltenango",3,"Yepocapa",12,710,380,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6647,"Chimaltenango",3,"Yepocapa",12,710,380,56,1,4,98,6,73,0,3,8,1,1,251,11,3,265,0,265,--,380,115,251,265,265,Algún campo sin dato,1,15873d3ed9d95772dd8f8c36e4e1abc6b71676c779a48e1fad24accc73e114a3,26/06/2023 00:49:07,ESCANER
+6648,"Chimaltenango",3,"Yepocapa",12,710,380,56,1,3,113,2,56,2,2,8,--,3,246,11,2,259,0,259,--,380,121,246,259,259,Algún campo sin dato,1,952eeb4ebdd0f70eb171213d2f27cb6bc6cc7ecd33758a5463dc3380b8887c25,26/06/2023 00:59:05,ESCANER
+6649,"Chimaltenango",3,"Yepocapa",12,710,380,42,2,3,82,2,69,0,0,7,0,4,211,1,3,215,1,216,--,380,164,211,215,216,Algún campo sin dato,1,8c008c6b50635240943ae7a3d392f1de722fb85fccb923d01edb17f524629c9e,26/06/2023 00:25:10,ESCANER
+6650,"Chimaltenango",3,"Yepocapa",12,710,195,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6651,"Chimaltenango",3,"Yepocapa",12,710,194,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6652,"Chimaltenango",3,"Yepocapa",12,711,380,10,2,16,60,2,75,1,3,36,0,0,205,30,7,242,0,242,--,380,138,205,242,242,Algún campo sin dato,1,b8f434e2a7db70045c4d3f4631fb6b8722d382d240f281763457cd9ee9f99c9a,26/06/2023 00:50:45,ESCANER
+6653,"Chimaltenango",3,"Yepocapa",12,711,380,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6654,"Chimaltenango",3,"Yepocapa",12,711,380,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
+6655,"Chimaltenango",3,"Yepocapa",12,711,193,5,1,9,14,2,32,0,1,17,0,0,81,6,0,87,0,87,--,193,106,81,87,87,Algún campo sin dato,1,c1db80a4963394fde1dc9d3397ab12e9829954d25879fd2764d508d086942075,25/06/2023 22:11:25,ESCANER
+6656,"Chimaltenango",3,"Yepocapa",12,711,192,5,0,4,21,0,27,0,3,19,0,0,79,2,1,82,0,0,--,192,110,79,82,82,Algún campo sin dato,1,b944fbb0767a0c625bb4fe1582b3024c15a1eda41aee2af4f4fe5622e7111267,25/06/2023 23:29:23,ESCANER
+6657,"Chimaltenango",3,"Yepocapa",12,712,380,17,1,4,42,5,71,1,6,8,0,2,157,10,4,171,0,171,--,380,209,157,171,171,Algún campo sin dato,1,e7f3270338a98329e5ad07926195976d367974badf1a337a0941f9edf08a0dc2,26/06/2023 00:10:31,ESCANER
+6658,"Chimaltenango",3,"Yepocapa",12,712,380,7,0,1,49,3,42,2,2,1,0,0,107,12,1,120,0,120,--,380,260,107,120,120,Algún campo sin dato,1,93579752c33f00a78306a317a4b4d1f56983a6e9bbf6636468d6a3d2eb2b5a83,26/06/2023 00:59:55,ESCANER
